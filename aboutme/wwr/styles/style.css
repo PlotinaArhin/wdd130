@@ -1,118 +1,122 @@
+/* Add @import for your chosen font at the very top of your CSS */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100;1,500&display=swap');
 
-#page-container {
-    max-width: 1600px;
-    margin: 0 auto; 
-    padding: 20px;
-    background-color: #fff;
-    
+/* Reset properties for the <body> and <h2> elements */
+body {
+    background-color: #fcfbfb;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
 }
 
+h2 {
+    margin: 0;
+}
+
+/* Apply padding to specified selectors */
+#page-container {
+    max-width: 1600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+}
+
+h1 {
+    margin: 50px 0;
+    font-family: 'Open Sans', sans-serif; /* Use your chosen font for headlines with a backup of a generic sans-serif font */
+}
+
+nav {
+    padding: 25px;
+    background-color: steelblue;
+}
+
+a {
+    padding: 25px;
+}
 
 nav a {
     text-align: center;
-    color: #333; 
-    text-decoration:none;
+    color: #333;
+    text-decoration: none;
+    padding: 35px;
 }
 
+nav li {
+    padding: 10px;
+}
 
-#hero-msg h1, #hero-msg h4 {
+img {
+    border: 4px solid steelblue;
+}
+
+/* Add borders, border-radius, and box-sizing to specified selectors */
+.book,
+.join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px; /* Add border-radius */
+}
+
+.card-img {
+    border: 10px solid #d9c2a3; /* Add border */
+}
+
+main section img {
+    box-sizing: border-box; /* Add box-sizing */
+}
+
+#hero-msg h1,
+#hero-msg h4 {
     text-align: center;
-    color: #333; 
+    color: #333;
+    font-family: 'Poppins', sans-serif; /* Use your chosen font for headlines in the hero section */
 }
-
 
 .button-box {
     text-align: center;
 }
 
-
 main section {
     text-align: center;
 }
 
-
 #background {
     height: 725px;
-    background-color: aquamarine; 
-    
+    background-color: aquamarine;
 }
 
-
-body {
-    background-color: #fcfbfb; 
+/* Add margins to specified selectors */
+.home-title {
+    margin-top: 10px;
 }
 
-
-header {
-    background-color: rgba(20, 30, 13, 0.7); 
+.rivers-card,
+.camping-card,
+.rapids-card {
+    margin: 200px 0;
 }
-
-
-nav a:hover {
-    background-color: #000; 
-}
-
-
-.book,
-.join {
-    background-color: #fcfbfb; 
-    color: #333; 
-    text-decoration:none;
-}
-
-
-.book:hover,
-.join:hover {
-    background-color: aqua; 
-    color: #333; 
-}
-
-
-.msg {
-    background-color: grey; 
-}
-
 
 footer {
-    background-color: #fff; 
-    color: #fff; 
+    margin-top: 200px;
 }
 
-
-footer a {
-    color: #fff; 
-    text-decoration: none;
-}
+/* Continue with the rest of your CSS styles... */
 
 
-footer p {
-    font-size: 1.2em;
-}
 
 
-footer p a:hover {
-    text-decoration: underline; 
-}
 
 
-footer a:hover {
-    color: #ff9900; 
-}
 
 
-.logo {
-    width: 80px;
-}
 
 
-.icon {
-    width: 80px;
-}
-
-
-#hero-image {
-    width: 100%;
-}
 
 
 
