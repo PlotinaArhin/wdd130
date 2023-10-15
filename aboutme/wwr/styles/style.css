@@ -1,7 +1,7 @@
-/* Add @import for your chosen font at the very top of your CSS */
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100;1,500&display=swap');
 
-/* Reset properties for the <body> and <h2> elements */
+
 body {
     background-color: #fcfbfb;
     font-family: Raleway, Arial, sans-serif;
@@ -14,7 +14,7 @@ h2 {
     margin: 0;
 }
 
-/* Apply padding to specified selectors */
+
 #page-container {
     max-width: 1600px;
     margin: 0 auto;
@@ -24,7 +24,7 @@ h2 {
 
 h1 {
     margin: 50px 0;
-    font-family: 'Open Sans', sans-serif; /* Use your chosen font for headlines with a backup of a generic sans-serif font */
+    font-family: 'Open Sans', sans-serif; 
 }
 
 nav {
@@ -51,7 +51,7 @@ img {
     border: 4px solid steelblue;
 }
 
-/* Add borders, border-radius, and box-sizing to specified selectors */
+
 .book,
 .join {
     background-color: #d9c2a3;
@@ -60,22 +60,22 @@ img {
     font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
-    border-radius: 5px; /* Add border-radius */
+    border-radius: 5px;
 }
 
 .card-img {
-    border: 10px solid #d9c2a3; /* Add border */
+    border: 10px solid #d9c2a3; 
 }
 
 main section img {
-    box-sizing: border-box; /* Add box-sizing */
+    box-sizing: border-box; 
 }
 
 #hero-msg h1,
 #hero-msg h4 {
     text-align: center;
     color: #333;
-    font-family: 'Poppins', sans-serif; /* Use your chosen font for headlines in the hero section */
+    font-family: 'Poppins', sans-serif; 
 }
 
 .button-box {
@@ -91,7 +91,7 @@ main section {
     background-color: aquamarine;
 }
 
-/* Add margins to specified selectors */
+
 .home-title {
     margin-top: 10px;
 }
@@ -106,7 +106,8 @@ footer {
     margin-top: 200px;
 }
 
-/* Continue with the rest of your CSS styles... */
+
+
 
 
 
