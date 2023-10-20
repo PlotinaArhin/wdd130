@@ -75,8 +75,9 @@ main section {
 
 .home-title {
     margin-top: 10px;
-    /* week 4 step 13 color */
-    /* week 5 step 1 & 2 font and size */
+    background-color: gray;
+    font-family: Roboto, sans-serif;
+    
 }
 
 .rivers-card,
@@ -87,47 +88,107 @@ main section {
 
 footer {
     margin-top: 200px;
-    /* week 4 step 12 background color 
-    Week 4 Step 13 color
-    Week 5 step 4 padding
-    */
+    background-color: #396e94;
+    color: #333;
+    padding: 35px;
+    
 }
 
 
 
-/* 
-Week 4 step 12
-header
-nav a:hover
-.book:hover, .join:hover 
-.msg
-
-week 4 step 13
-nav a:hover
-h4 
-.book:hover, .join:hover
-.msg h2.msg p 
-footer a
-footer a:hover
-
-Week 4 step 14
-#hero-img
-.icon
-.logo
-
-Week 4 Step 15
-footer a
-footer a:hover
-
-Week 5 Step  & 2
-.msg h2
 
 
-Week 5Step 4
-#logo_link
-.msg
-.msg p
-footer .social img */
+header {
+    background-color:rgba(20,30,13, .7)
+
+}
+nav a:hover {
+    background-color: black;
+}
+ .join:hover {
+    background-color:#90e0ef ;
+ }
+
+.msg {
+ background:  #246133;
+ line-height: 1.5em;
+ padding: 35px; 
+}
+
+
+
+nav a:hover {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+
+}
+
+h4 {
+    color: aliceblue;
+}
+
+.book:hover, .join:hover {
+    color: #d9c2a3;
+}
+
+.msg h2.msg p {
+    color:#fcfbfb ;
+}
+footer a {
+color: aliceblue;
+}
+
+
+footer a:hover {
+    color: #fcfbfb;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+#hero-img {
+    width: 100px;
+}
+.icon {
+    width: 80px;
+}
+.logo{ 
+    width: 80px;
+}
+
+
+footer a {
+    color:aliceblue;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+.msg h2 {
+    color: #90e0ef;
+    font-family: fredoka,sans-serif;
+    font-size: 8em;
+    
+}
+
+.msg p {
+    color: aliceblue;
+    font-family: Roboto, sans-serif;
+    font-size: 8em;
+    padding-bottom: 15px;
+}
+
+
+#logo_link{
+    padding-top:5px;
+}
+
+
+footer .social img {
+    padding-top: 15px;
+}
 
 
 
