@@ -1,40 +1,23 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto&display=swap');
 
 
 body {
     background-color: #fcfbfb;
-    font-family: Raleway, Arial, sans-serif;
+    font-family: Roboto, sans-serif;
     font-size: 22px;
     margin: 0;
     padding: 0;
 }
 
-h2 {
-    margin: 0;
-}
 
 
 #page-container {
     max-width: 1600px;
     margin: 0 auto;
-    padding: 20px;
-    background-color: #fff;
 }
 
-h1 {
-    margin: 50px 0;
-    font-family: 'Open Sans', sans-serif; 
-}
 
-nav {
-    padding: 25px;
-    background-color: steelblue;
-}
 
-a {
-    padding: 25px;
-}
 
 nav a {
     text-align: center;
@@ -47,9 +30,7 @@ nav li {
     padding: 10px;
 }
 
-img {
-    border: 4px solid steelblue;
-}
+
 
 
 .book,
@@ -64,7 +45,7 @@ img {
 }
 
 .card-img {
-    border: 10px solid #d9c2a3; 
+    border: 10px solid #d9c2a3;
 }
 
 main section img {
@@ -75,7 +56,7 @@ main section img {
 #hero-msg h4 {
     text-align: center;
     color: #333;
-    font-family: 'Poppins', sans-serif; 
+    font-family: Fredoka, sans-serif; 
 }
 
 .button-box {
@@ -94,6 +75,8 @@ main section {
 
 .home-title {
     margin-top: 10px;
+    /* week 4 step 13 color */
+    /* week 5 step 1 & 2 font and size */
 }
 
 .rivers-card,
@@ -104,20 +87,47 @@ main section {
 
 footer {
     margin-top: 200px;
+    /* week 4 step 12 background color 
+    Week 4 Step 13 color
+    Week 5 step 4 padding
+    */
 }
 
 
 
+/* 
+Week 4 step 12
+header
+nav a:hover
+.book:hover, .join:hover 
+.msg
+
+week 4 step 13
+nav a:hover
+h4 
+.book:hover, .join:hover
+.msg h2.msg p 
+footer a
+footer a:hover
+
+Week 4 step 14
+#hero-img
+.icon
+.logo
+
+Week 4 Step 15
+footer a
+footer a:hover
+
+Week 5 Step  & 2
+.msg h2
 
 
-
-
-
-
-
-
-
-
+Week 5Step 4
+#logo_link
+.msg
+.msg p
+footer .social img */
 
 
 
