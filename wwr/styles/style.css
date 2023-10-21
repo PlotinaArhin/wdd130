@@ -1,203 +1,154 @@
-@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Roboto&display=swap');
-
-
-body {
-    background-color: #fcfbfb;
-    font-family: Roboto, sans-serif;
-    font-size: 22px;
-    margin: 0;
-    padding: 0;
-}
-
-
-
-#page-container {
+#hero {
     max-width: 1600px;
-    margin: 0 auto;
+    margin: 0 auto; /* Center the content horizontally within the browser window */
+  }
+
+nav, a {
+  text-align: center;
+  color: #d9c2a3;
+  text-decoration: none;
+  padding: 35px;
+
 }
 
+#hero-msg h1, #hero-msg h4 {
 
-
-
-nav a {
-    text-align: center;
-    color: #333;
-    text-decoration: none;
-    padding: 35px;
-}
-
-nav li {
-    padding: 10px;
-}
-
-
-
-
-.book,
-.join {
-    background-color: #d9c2a3;
-    color: black;
-    text-decoration: none;
-    font-size: 18px;
-    padding: 15px 30px;
-    margin-top: 50px;
-    border-radius: 5px;
-}
-
-.card-img {
-    border: 10px solid #d9c2a3;
-}
-
-main section img {
-    box-sizing: border-box; 
-}
-
-#hero-msg h1,
-#hero-msg h4 {
-    text-align: center;
-    color: #333;
-    font-family: Fredoka, sans-serif; 
+  text-align: center;
+  color: #0e0377;
 }
 
 .button-box {
-    text-align: center;
+  text-align: center;
 }
 
-main section {
-    text-align: center;
+main, section {
+  text-align: center;
+  color: #000000;
 }
 
 #background {
-    height: 725px;
-    background-color: aquamarine;
+  height: 725px;
+  background-color: #af9164;
+
 }
 
-
-.home-title {
-    margin-top: 10px;
-    background-color: gray;
-    font-family: Roboto, sans-serif;
-    
+body {
+  background-color: #fffffe; 
 }
 
-.rivers-card,
-.camping-card,
-.rapids-card {
-    margin: 200px 0;
+body {
+  background-color: #fcfbfb;
+  font-family: Slabo, New Rocker, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
 }
-
-footer {
-    margin-top: 200px;
-    background-color: #396e94;
-    color: #333;
-    padding: 35px;
-    
+h2 {
+  margin: 0;
 }
-
-
-
-
 
 header {
-    background-color:rgba(20,30,13, .7)
-
+  background-color:rgba(2, 72, 204, 0.363);
 }
 nav a:hover {
-    background-color: black;
-}
- .join:hover {
-    background-color:#90e0ef ;
- }
+  background-color: black;
+  color: #d1d0cf;
+}    
 
-.msg {
- background:  #246133;
- line-height: 1.5em;
- padding: 35px; 
-}
-
-
-
-nav a:hover {
-    text-align: center;
-    color: #fcfbfb;
-    text-decoration: none;
-
+.book, .join {
+  background-color: rgb(0, 0, 61);
+  color: #ffffff;
+  text-decoration: none;
+  padding: 15px 30px;
+  margin-top:50px;
+  border-radius: 5px;
 }
 
-h4 {
-    color: aliceblue;
+.card-img {
+  border: 10px solid #af9164;
+}
+
+main section img {
+  box-sizing: border-box;
 }
 
 .book:hover, .join:hover {
-    color: #d9c2a3;
+  background-color: rgb(92, 87, 87);
+  color: #000000;
 }
 
-.msg h2.msg p {
-    color:#fcfbfb ;
+.msg {
+  background-color: rgba(83, 69, 7, 0.637);
 }
-footer a {
-color: aliceblue;
+footer {
+  background-color:rgba(2, 72, 204, 0.363);
+  color: #000000;
+  padding: 25px 50px;
+  margin-top: 200px;
 }
 
+.msg {
+  background-color: #6f7364;
+  line-height: 1.5em;
+  padding: 35px;
+}
 
+.home-title {
+  color: #0e0377;
+}
+
+ 
+
+h4 {
+  color: black;
+}
+.msg h2 {
+  color: rgb(0, 1, 46);
+}
+.msg p {
+  color: #0e0377;
+  padding-bottom: 15px;
+}
+
+footer, a {
+  color: #0e0377;
+  text-decoration: none;
+
+}
 footer a:hover {
-    color: #fcfbfb;
-    text-align: center;
-    text-decoration: none;
+  color: #ffffff;
+} 
+
+.icon {
+  width: 80px;
+  padding: 10px;
 }
 
+.logo {
+  width: 80px;
+}
+
+#logo_link {
+  padding-top: 5px;
+}
 
 #hero-img {
-    width: 100px;
-}
-.icon {
-    width: 80px;
-}
-.logo{ 
-    width: 80px;
+  width: 100%;
 }
 
-
-footer a {
-    color:aliceblue;
-    text-align: center;
-    text-decoration: none;
+footer p {
+  font-size: 1.2em;
 }
-
-
-
-.msg h2 {
-    color: #90e0ef;
-    font-family: fredoka,sans-serif;
-    font-size: 8em;
-    
+footer p, a:hover {
+  text-decoration: underline;
 }
-
-.msg p {
-    color: aliceblue;
-    font-family: Roboto, sans-serif;
-    font-size: 8em;
-    padding-bottom: 15px;
-}
-
-
-#logo_link{
-    padding-top:5px;
-}
-
 
 footer .social img {
-    padding-top: 15px;
+  padding-top: 15px;
 }
 
-
-
-
-
-
-
+.rivers-card, .camping-card, .rapids-card {
+  margin: 200px 0;
+}
 
     
-
-
-
