@@ -1,9 +1,11 @@
+
 #hero {
     max-width: 1600px;
     margin: 0 auto; /* Center the content horizontally within the browser window */
   }
 
-nav, a {
+
+  nav, a {
   text-align: center;
   color: #d9c2a3;
   text-decoration: none;
@@ -16,6 +18,7 @@ nav, a {
   text-align: center;
   color: #0e0377;
 }
+
 
 .button-box {
   text-align: center;
