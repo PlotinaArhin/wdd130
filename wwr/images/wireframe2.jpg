@@ -1,0 +1,144 @@
+<mxfile host="Electron" modified="2023-11-07T00:56:31.072Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="XiVQxxuy4ghXbsMzIQsD" version="22.0.3" type="device">
+  <diagram name="Page-1" id="5mawn5IRVE4SHBAQb2j6">
+    <mxGraphModel dx="1075" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="#CCCCCC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+          <mxGeometry x="10" y="705" width="1030" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="20" width="620" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-3" value="Home" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="CsoPE0BR8IVDmroZU8xt-2">
+          <mxGeometry width="103.33333333333333" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-4" value="Page 2" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="CsoPE0BR8IVDmroZU8xt-2">
+          <mxGeometry x="103.33333333333333" width="103.33333333333333" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-5" value="Page 3" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="CsoPE0BR8IVDmroZU8xt-2">
+          <mxGeometry x="199.19678714859438" width="112.04819277108433" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-6" value="Contact us" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="CsoPE0BR8IVDmroZU8xt-2">
+          <mxGeometry x="311.2449799196787" width="103.33333333333333" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-7" value="Window" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="CsoPE0BR8IVDmroZU8xt-2">
+          <mxGeometry x="414.578313253012" width="103.33333333333333" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-8" value="Help" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fontSize=17;fontColor=#666666;whiteSpace=wrap;" vertex="1" parent="CsoPE0BR8IVDmroZU8xt-2">
+          <mxGeometry x="510.44176706827307" width="109.55823293172689" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-9" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="1080" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsoPE0BR8IVDmroZU8xt-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="targetPoint" />
+            <mxPoint x="300" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-10" value="This the title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CsoPE0BR8IVDmroZU8xt-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="targetPoint" />
+            <mxPoint x="620" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="CsoPE0BR8IVDmroZU8xt-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="310" as="targetPoint" />
+            <mxPoint x="300" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-14" value="I&#39;m writing because of the vacant situation for a French mentor at Nelson Grade School. I&#39;m really an understudy in College of Ghana and am searching for a place that will permit me to get back to my old neighborhood as I gain insight in my picked field. During my schooling, I have had the potential chance to show in a few rudimentary level homerooms, including first-, 2nd and 3rd grade classes. I have additionally acquired down to earth experience that has molded my capacities to give shrewdness and energize my understudies." style="text;whiteSpace=wrap;html=1;fillColor=#333333;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="1">
+          <mxGeometry x="622" y="332" width="368" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-17" value="I&#39;m writing because of the vacant situation for a French mentor at Nelson Grade School. I&#39;m really an understudy in College of Ghana and am searching for a place that will permit me to get back to my old neighborhood as I gain insight in my picked field. During my schooling, I have had the potential chance to show in a few rudimentary level homerooms, including first-, 2nd and 3rd grade classes. I have additionally acquired down to earth experience that has molded my capacities to give shrewdness and energize my understudies." style="text;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="560" y="530" width="460" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#b46504;fillColor=#fad7ac;" vertex="1" parent="1">
+          <mxGeometry x="96" y="530" width="368" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-20" value="" style="verticalLabelPosition=bottom;shadow=0;align=center;html=1;verticalAlign=top;strokeWidth=2;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="540" y="734" width="470" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-19" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: rgb(77, 77, 77);&quot;&gt;I&#39;m writing because of the vacant situation for a French mentor at Nelson Grade School. I&#39;m really an understudy in College of Ghana and am searching for a place that will permit me to get back to my old neighborhood as I gain insight in my picked field. During my schooling, I have had the potential chance to show in a few rudimentary level homerooms, including first-, 2nd and 3rd grade classes. I have additionally acquired down to earth experience that has molded my capacities to give shrewdness and energize my understudies.&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fillColor=#4D4D4D;strokeColor=#23445d;align=right;" vertex="1" parent="1">
+          <mxGeometry x="40" y="751" width="590" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1060" width="1050" height="160" as="geometry" />
+        </mxCell>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-24">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="230" y="1150" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-25">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="230" y="1110" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-26">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="230" y="1060" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-27">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="400" y="1060" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-28">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="400" y="1110" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-29">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="404" y="1160" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-31">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="550" y="1060" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-32">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="550" y="1110" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Link" link="https://www.draw.io" id="CsoPE0BR8IVDmroZU8xt-33">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+            <mxGeometry x="550" y="1160" width="60" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Copyright&amp;nbsp; Notice&lt;/b&gt;&lt;/font&gt;" placeholders="1" name="Variable" id="CsoPE0BR8IVDmroZU8xt-34">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1070" width="130" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1110" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-41" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github" vertex="1" parent="1">
+          <mxGeometry x="710" y="1092.5" width="50" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-42" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.linkedin;fillColor=#0095DB;gradientColor=#006391" vertex="1" parent="1">
+          <mxGeometry x="770" y="1099.4" width="30" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="CsoPE0BR8IVDmroZU8xt-43" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.twitter;fillColor=#1DA1F2;strokeColor=none" vertex="1" parent="1">
+          <mxGeometry x="820" y="1099.4" width="45" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
