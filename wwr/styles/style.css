@@ -65,11 +65,12 @@ h2 {
   margin: 0;
 }
 
-header {
-  background-color: #000000
+header{
   display: grid;
   grid-template-columns: 150px auto;
+  background-color: #000000;
 }
+
 
 nav a:hover {
   background-color: black;
@@ -98,7 +99,7 @@ nav a:hover {
   transform: scale(1.1);
 }
 
-main section img {
+.main section img {
   box-sizing: border-box;
 }
 
