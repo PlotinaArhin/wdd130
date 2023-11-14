@@ -1,0 +1,179 @@
+<mxfile host="Electron" modified="2023-11-14T18:54:24.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="9rxtdvvygpaM8-kvgTcb" version="22.0.3" type="device" pages="3">
+  <diagram name="Home" id="fePHpESY38d2t5W2Hg8Y">
+    <mxGraphModel dx="1551" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f3_F9k_nzYE2Gdxumvm--1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="1200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AoFICt4fohvMHKeq20K6-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AoFICt4fohvMHKeq20K6-5" value="Menu List" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="930" y="32.5" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AoFICt4fohvMHKeq20K6-4" value="Activities" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="549" y="32.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="AoFICt4fohvMHKeq20K6-9" value="Home" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="32.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="HTTb59zFbpHm0OaErmfY-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry y="90" width="1200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="HTTb59zFbpHm0OaErmfY-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="710" y="331" width="380" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="HTTb59zFbpHm0OaErmfY-3" value="Title" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HTTb59zFbpHm0OaErmfY-4" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;In the intricate dance of flavors that defines home-cooked meals, there exists a profound connection to our cultural heritage. These recipes, passed down through generations like treasured heirlooms, serve as culinary time capsules. Each spice, each cooking technique, is a link to our ancestry, a homage to the culinary wisdom imparted by those who came before us. As we recreate these dishes in our kitchens, we are not only honoring tradition but actively participating in a legacy that extends beyond the confines of our homes&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="340" width="500" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="HTTb59zFbpHm0OaErmfY-5" value="The beauty of home-cooked food lies not only in its ability to evoke nostalgia but also in its adaptability to the ever-changing landscape of our lives. It is a canvas upon which we paint the colors of innovation and creativity. The kitchen becomes a playground where we experiment with flavors, infuse traditional recipes with a modern twist, and, in doing so, carve out our culinary identity. &lt;br&gt;&lt;br&gt;The act of introducing novel elements to age-old recipes is a celebration of the evolving nature of our tastes and a testament to the dynamism inherent in the art of cooking. Moreover, the preparation of home-cooked meals is a therapeutic journey, a respite from the frenetic pace of the outside world. In the meditative rhythm of chopping vegetables or the patient simmering of a stew, we find solace. The kitchen becomes a sanctuary, a place where the cacophony of daily life fades into the background, and we are left alone with our thoughts and the alchemy of ingredients. &lt;br&gt;&lt;br&gt;This therapeutic quality of cooking extends beyond the act itself; it permeates the entire home, turning the kitchen into a haven of calmness and introspection. The dining table, laden with home-cooked delights, transforms into a communal space where stories are exchanged, bonds are strengthened, and the simple act of sharing a meal becomes a sacred ritual. It is in these moments that the true power of home-cooked food is unveiled—not just as sustenance for the body but as nourishment for the soul. The laughter that reverberates around the table, the shared anecdotes, and the genuine connection forged over a plate of food create lasting memories. It&#39;s a reminder that, in a world that often feels fragmented, the simple act of breaking bread together has the power to knit the fabric of our relationships. In essence, home-cooked food is a symphony of tradition, innovation, and emotional resonance. It is the embodiment of love, a testament to the ties that bind us to our past, present, and future. As we navigate the complexities of our lives, the kitchen remains a constant—a place where we can find not just nourishment but a source of comfort, joy, and a profound sense of belonging. In the culinary tapestry of home-cooked comfort, every dish is a chapter, every meal a story, and every shared moment a celebration of the human experience." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="500" y="650" width="660" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="HTTb59zFbpHm0OaErmfY-6" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="90" y="660" width="380" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nZtKEn52BL31QVza0Gez" name="Activities">
+    <mxGraphModel dx="2751" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LzlpL7Kmyy4Co11n14sz-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry width="1200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LzlpL7Kmyy4Co11n14sz-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LzlpL7Kmyy4Co11n14sz-3" value="Menu List" style="strokeColor=#3700CC;fillColor=#6a00ff;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;whiteSpace=wrap;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="930" y="32.5" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LzlpL7Kmyy4Co11n14sz-4" value="Activities" style="strokeColor=#b85450;fillColor=#f8cecc;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="549" y="32.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="LzlpL7Kmyy4Co11n14sz-5" value="Home" style="strokeColor=#666666;fillColor=#f5f5f5;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#333333;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="32.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="O-awJAzphDHct0B1r46i-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry y="90" width="1200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Lqoiv2hFHfmRJQaDbvWk-1" value="&#xa;&lt;span style=&quot;color: rgb(0, 180, 216); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;In the heart of Ghana, where culinary traditions intertwine with modern gastronomy, Peduase Chop house stands as a testament to the enduring charm of home-cooked comfort. As you embark on a culinary journey with us, prepare to be immersed in an experience that transcends mere dining — welcome to our home, where every dish tells a story. At Peduase Chop House, our roots run deep. Founded with a passion for preserving familial culinary legacies, our story is one of evolution, innovation, and a dedication to the art of home cooking. The pages of our history reveal not just a restaurant but a haven where tradition meets contemporary flair. Step into our kitchen, and you step into a world where family recipes, passed down through generations, take center stage. Here, cultural influences weave a tapestry of flavors, and signature dishes carry with them the rich narratives of our heritage. Our menu is a homage to the past, a celebration of the diverse influences that have shaped our culinary identity.&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="620" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Lqoiv2hFHfmRJQaDbvWk-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="810" y="400" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIv5uI9xH7o2_7zpiVj-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="20" y="720" width="390" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIv5uI9xH7o2_7zpiVj-2" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;Led by our seasoned chef, Chef Van, Peduase Chop House embraces the art of cooking as a labor of love. With a farm-to-table philosophy, we prioritize fresh, locally sourced ingredients. Sustainability is not just a buzzword; it&#39;s a commitment woven into every aspect of our culinary creations. Meet the talented individuals who bring our kitchen to life. From the bustling markets to the creative innovation behind every dish, our culinary team is dedicated to excellence. Explore the stories behind our ingredients and witness firsthand the dedication that transforms them into the delectable creations that grace our tables.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="800" width="500" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1PGU_zkvY_Yiss5bzK-b-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=#CCFFFF;" vertex="1" parent="1">
+          <mxGeometry x="699" y="1170" width="390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lqIv5uI9xH7o2_7zpiVj-3" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;The ambiance at Peduase Chop House is more than mere aesthetics; it&#39;s a reflection of our commitment to providing a cozy, intimate dining experience. Our personalized service ensures that each visit feels like coming home, and the testimonials from our patrons attest to the warmth that envelops every guest. Beyond our walls, Peduase Chop House is deeply ingrained in the community.&amp;nbsp;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 13px;&quot;&gt;Our local partnerships, charity initiatives, and support for local agriculture are not just gestures; they are the threads that weave us into the fabric of Aburi cultural tapestry. The ambiance at Peduase Chop House is more than mere aesthetics; it&#39;s a reflection of our commitment to providing a cozy, intimate dining experience. Our personalized service ensures that each visit feels like coming home, and the testimonials from our patrons attest to the warmth that envelops every guest. Beyond our walls, Peduase Chop House is deeply ingrained in the community.&amp;nbsp;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 13px;&quot;&gt;Our local partnerships, charity initiatives, and support for local agriculture are not just gestures; they are the threads that weave us into the fabric of [Your City]&#39;s cultural tapestry. Take a piece of Peduase Chop house with you by trying some of our signature recipes at home. Our chef shares cooking tips, and we encourage you to share your creations with the world using #HomeCookedMagic.&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=default;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1175" width="790" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="dAGzklK7zm2jUvso_Ela-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1440" width="1240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dAGzklK7zm2jUvso_Ela-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="1490" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dAGzklK7zm2jUvso_Ela-3" value="Copy right notice" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9PMnLBCfhx2AtQ9ui-0Y-1" value="https://plotinaarhin.github.io/wdd130/pch/site-plan.html" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1500" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3foL4I9La03GHf4OwDYg-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" vertex="1" parent="1">
+          <mxGeometry x="690" y="1495" width="70" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="QnMDiT_qki2_1C4u0Oht-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.linkedin;fillColor=#0095DB;gradientColor=#006391" vertex="1" parent="1">
+          <mxGeometry x="800" y="1502.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NRUQn9aVpuWMEEEjkLS7-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="910" y="1500" width="102.4" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uVJwCt3hwBzYW56HHP-j" name="Menu List">
+    <mxGraphModel dx="1551" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jV_UibnaO_c4NyetJdqw-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="1200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jV_UibnaO_c4NyetJdqw-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jV_UibnaO_c4NyetJdqw-3" value="Menu List" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="930" y="32.5" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV_UibnaO_c4NyetJdqw-4" value="Activities" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="549" y="32.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="jV_UibnaO_c4NyetJdqw-5" value="Home" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="32.5" width="150" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="8xrKau0FNWaYCgpoABnB-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry y="90" width="1200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fCni9cHL6t7WRL-AslEy-1" value="Menu List" style="text;strokeColor=#d6b656;fillColor=#FF3399;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6gJG4NzpoLMs0mQWBMnk-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="800" y="390" width="370" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="6gJG4NzpoLMs0mQWBMnk-2" value="&lt;h1 style=&quot;font-size: 15px;&quot;&gt;Our culinary team is composed of passionate and skilled chefs who take pride in creating dishes that not only taste exceptional but also showcase artistic presentation.The menu is not just a list of dishes; it&#39;s a journey. We offer an array of culinary experiences, from the comfort of timeless classics to the excitement of innovative, seasonal offerings. Our commitment to seasonal ingredients means our menu evolves, allowing us to present new and exciting flavors to our customers throughout the year.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;opacity=0;fontColor=#000000;textOpacity=90;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="80" y="410" width="520" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="40" y="750" width="370" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-2" value="&lt;h1 style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/h1&gt;One of the cornerstones of our menu is diversity. We understand that every customer who walks through our doors brings their unique palate and culinary preferences. Thus, our menu is thoughtfully curated to offer a broad spectrum of options, ranging from international and fusion dishes to classic local favorites. Vegetarian, vegan, and gluten-free choices are also available, ensuring that every guest can find something to satisfy their appetite." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="680" y="760" width="460" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1190" width="1100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1200" width="490" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-5" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;One of the cornerstones of our menu is diversity. We understand that every customer who walks through our doors brings their unique palate and culinary preferences. Thus, our menu is thoughtfully curated to offer a broad spectrum of options, ranging from international and fusion dishes to classic local favorites. Vegetarian, vegan, and gluten-free choices are also available, ensuring that every guest can find something to satisfy their appetite.&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1240" width="660" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1630" width="1040" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-7" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1690" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-8" value="https://plotinaarhin.github.io/wdd130/pch/site-plan.html" style="shape=rectangle;strokeColor=none;fillColor=none;linkText=;fontSize=17;fontColor=#0000ff;fontStyle=4;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1680" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Copy right notice&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1650" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-11" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.facebook;fillColor=#6294E4;gradientColor=#1A2665" vertex="1" parent="1">
+          <mxGeometry x="770" y="1680" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-12" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.linkedin;fillColor=#0095DB;gradientColor=#006391" vertex="1" parent="1">
+          <mxGeometry x="850" y="1680" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="0N1WYdnAiemhEbZTWxHa-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="1">
+          <mxGeometry x="941.3" y="1663.8" width="102.4" height="86.2" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
