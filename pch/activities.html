@@ -1,44 +1,112 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="styles/styles.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Activities page</title>
+    <title>home</title>
+    <link rel="stylesheet" href="styles/styles.css">
     <style>
-        /* Style for the slideshow and buttons */
-        .container {
-            display: none;
+        .slider-container {
+            position: relative;
+            overflow: hidden;
+            max-width: 100%;
         }
 
-        .prev, .next {
-            cursor: pointer;
-            position: absolute;
-            top: 50%;
-            width: auto;
-            padding: 16px;
-            margin-top: -22px;
-            color: white;
-            font-weight: bold;
-            font-size: 18px;
-            transition: 0.6s ease;
-            border-radius: 0 3px 3px 0;
-            user-select: none;
+        .slider {
+            display: flex;
+            transition: transform 0.8s ease-in-out;
         }
 
-        .next {
-            right: 0;
-            border-radius: 3px 0 0 3px;
+        .slide {
+            min-width: 100%;
+            box-sizing: border-box;
         }
 
-        .prev:hover, .next:hover {
-            background-color: rgba(0, 0, 0, 0.8);
+        .activities-grid {
+            padding-top: 20px;
+            padding-bottom: 20px;
         }
-
-        /* Rest of your existing styles (if any) */
     </style>
 </head>
+<body class="content">
+    <header>
+        <a id="logo_link" href="index.html">
+            <img class="logo" src="image/logo.jpg" alt="Peduase Chop House">
+        </a>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="activities.html">Activities</a>
+            <a href="menulist.html">menulist</a>
+        </nav>
+    </header>
+    <main class="activities-gride">
+        <div class="slider-container">
+            <div class="slider">
+                <div class="slide">
+                    <img src="image/tasty.jpg" alt="Slider Image 1">
+                </div>
+                <div class="slide">
+                    <img src="image/guest.jpg" alt="Slider Image 2">
+                </div>
+                <div class="slide">
+                    <img src="image/pizza slice.jpg" alt="Slider Image 3">
+                </div>
+                <!-- Add more slides as needed -->
+            </div>
+        </div>
 
-<body>
-    
+        <h1> In the heart of Ghana, where culinary traditions intertwine with modern gastronomy, Peduase Chop house stands as a testament to the enduring charm of home-cooked comfort. </h1>
+
+        <!-- Your existing content -->
+
+        <div class="breakfast">
+            <img src="image/background.jpeg">
+            <p>
+                At Peduase Chop House, our roots run deep. Founded with a passion for preserving familial culinary legacies   <a href="#">here</a> 
+            </p>
+        </div>
+        <div class="diningtable">
+            <img src="image/diningtable.webp">
+            <p>The pages of our history reveal not just a restaurant but a haven where tradition meets contemporary flair.</p>
+        </div>
+        <div class="Burger">
+            <img src="image/burger.jpg">
+            <p>At Peduase Chop House , every season is an opportunity for culinary exploration.Dive into our seasonal menus, join us for Chef's Tasting Nights, and immerse yourself in the world of flavors through our cooking classes and workshops.</p>
+        </div>
+        <div>
+            <!--this will be a placeholder for the leather pouches.  as soon as my friend decides what kind of pouch he wants to sell I will update this. if he does not tell me soon I will replace this with something else-->
+            <img src="https://picsum.photos/300">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamc</p>
+        </div>
+    </main>
+    <footer>
+        <p>Plotina Arhin &copy; 2023 - Peduase Chop House</p>
+        <a href="site-plan.html">Site Plan</a>
+    </footer>
+
+    <script>
+        // JavaScript for the automatic slider
+        const slider = document.querySelector('.slider');
+        const slides = document.querySelectorAll('.slide');
+
+        let counter = 1;
+
+        setInterval(() => {
+            const slideWidth = slides[0].clientWidth;
+            slider.style.transition = 'transform 0.8s ease-in-out';
+            slider.style.transform = `translateX(${-slideWidth * counter}px)`;
+
+            counter++;
+
+            if (counter === slides.length) {
+                setTimeout(() => {
+                    slider.style.transition = 'none';
+                    slider.style.transform = 'translateX(0)';
+                    counter = 1;
+                }, 800);
+            }
+        }, 3000); // Change the time interval (in milliseconds) for automatic slide change
+    </script>
 </body>
 </html>

@@ -153,3 +153,56 @@ nav a:hover {
     text-align: left;
   }
 }
+
+/* gallery.css */
+
+/* Container for the entire grid */
+.activities-grid {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr); /* 10 columns */
+  grid-gap: 20px; /* Adjust as needed for spacing between items */
+  padding: 20px; /* Add padding around the grid */
+}
+
+/* Style for each item in the grid */
+.activities-grid > div {
+  border: 1px solid #975f5f; /* Add a border for visual separation */
+  padding: 15px; /* Add padding to each grid item */
+  text-align: center; /* Center-align content within each item */
+}
+
+/* Adjust styling for specific items if needed */
+.breakfast, .diningtable, .burger {
+  margin-bottom: 20px; /* Add bottom margin to create space between items */
+  background-color: #642c2c; /* Background color for visual separation */
+  border-radius: 8px; /* Rounded corners for a softer look */
+  overflow: hidden; /* Hide any overflowing content */
+}
+
+/* Style the images inside these items */
+.breakfast img, .diningtable img, .burger img {
+  width: 100%; /* Make the images fill the container */
+  border-bottom: 2px solid #221b1b; /* Add a border below the images */
+}
+
+/* Style the paragraphs inside these items */
+.breakfast p, .diningtable p, .burger p {
+  padding: 15px; /* Add padding to paragraphs */
+  text-align: left; /* Left-align text */
+  font-size: 16px; /* Adjust font size as needed */
+}
+
+/* Responsive adjustments (optional) */
+@media (max-width: 768px) {
+  .breakfast, .diningtable, .burger {
+    margin-bottom: 15px; /* Reduce bottom margin on smaller screens */
+  }
+}
+
+
+/* Responsive adjustments (optional) */
+@media (max-width: 768px) {
+  .activities-grid {
+    grid-template-columns: repeat(2, 1fr); /* 2 columns on smaller screens */
+  }
+}
