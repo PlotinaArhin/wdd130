@@ -140,6 +140,7 @@ nav a:hover {
   padding: 20px; /* Add padding around the grid */
 }
 
+
 /* Style for each item in the grid */
 .activities-grid > div {
   border: 1px solid #975f5f; /* Add a border for visual separation */
